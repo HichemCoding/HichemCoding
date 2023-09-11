@@ -2,7 +2,7 @@
 <h3 align="center">Je suis passionné par l'informatique plus précisément par le dév web et la sécurité informatique</h3>
 <img align="right" alt="GIF" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-- 🌱 Je suis actuellement en train d'apprendre **Python**
+- 🌱 Je suis actuellement en train d'apprendre l'utilisation de moteur de jeu vidéo tel que **UNITY** et **UNREAL ENGINE** 
 
 - 💬 Posez moi des questions sur **PHP, SQL, HTML, CSS**
 
